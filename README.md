@@ -46,7 +46,7 @@ Vault-to-Learn/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/vaishnavi-parodkar/Vault-to-Learn.git
+git clone https://github.com/Vianka-Souza/Vault-to-Learn.git
 cd Vault-to-Learn
 ```
 
