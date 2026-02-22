@@ -117,11 +117,3 @@ Go to http://localhost:3000 in your browser.
 5. Open a Pull Request.
 
 
-## 📬 Contact
-
-For any queries or collaborations, feel free to connect:
-
-**Vaishnavi Parodkar**  
-📧 Email: vaishnaviparodkar@gmail.com
-🔗 GitHub: [@vaishnavi-parodkar](https://github.com/vaishnavi-parodkar)
-
